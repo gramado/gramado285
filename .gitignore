@@ -1,0 +1,13 @@
+!LICENSE
+!Makefile
+!basetier/**
+
+*.VHD
+*.BIN
+*.o
+*.a
+*.so
+*.SO
+
+
+

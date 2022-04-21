@@ -1,0 +1,11 @@
+
+
+	Folders:
+
+
+	admin/ Admin stuff.
+
+	basetier/    Tier 1: A kind of place for data access tier.
+	comtier/     Tier 2: A kind of place for communication tier.
+	prestier/    Tier 3: A kind of place for presentation tier.
+
